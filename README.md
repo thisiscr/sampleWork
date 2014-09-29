@@ -6,7 +6,7 @@ Sample work from portfolio.
 —PDF—
 emusic_ux_analysis_suggestions, Brown-VizTouch-TEI2011
 
--WORD-
+—WORD—
 Mobile UX Review - Youtube
 
 
