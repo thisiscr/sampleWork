@@ -15,9 +15,11 @@ Folders and Content
 *hype
   - SoundCloud Viz Lights: HTML5 hype exports for central animation
   - SoundCloud Viz Lights Big: HTML5 hype exports for bottom left/right animation
+
 *routes
   - work.js: server side node script which serves up data for work page
     -relevant method: syncSoundcloudWavedata()
+
 *views
   - layout.html: embeds central hype animation and also set up global opacity toggle and timeline variables
   - work.html: render work page view
@@ -35,12 +37,13 @@ Folders and Content
 
 #in Work.zip:
 
-  ##-WIRES—
-  *Portfolio - Wire - Omni
-  *University of College - Wire - Omni
+##--WIRES—
+
+*Portfolio - Wire - Omni
+*University of College - Wire - Omni
   
-  ##—HYPE PROTOTYPE—
-  *LabelBox - Prototype - Hype
+##--HYPE PROTOTYPE—
+*LabelBox - Prototype - Hype
   
-  ##—PDF—
-  *Ebay UX Issues - PDF
+##--PDF—
+*Ebay UX Issues - PDF
