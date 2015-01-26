@@ -18,12 +18,12 @@ Folders and Content
 
 ####routes
   - work.js: server side node script which serves up data for work page
-    -relevant method: syncSoundcloudWavedata()
+    -relevant method: **syncSoundcloudWavedata()**
 
 ####views
   - layout.html: embeds central hype animation and also set up global opacity toggle and timeline variables
   - work.html: render work page view
-    -relevant method: createSoundcloudGallery(container)
+    -relevant method: **createSoundcloudGallery(container)**
 
 
 #-PDF-
