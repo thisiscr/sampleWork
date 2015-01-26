@@ -29,6 +29,7 @@ Folders and Content
 #-PDF-
 
 -emusic_ux_analysis_suggestions
+
 -Brown-VizTouch-TEI2011
 
 #-WORD-
@@ -41,6 +42,7 @@ Folders and Content
 ####-WIRES-
 
 -Portfolio - Wire - Omni
+
 -University of College - Wire - Omni
   
 ####-HYPE PROTOTYPE-
