@@ -10,7 +10,7 @@ Sample work from portfolio.
 Code (relevant only) from SC Vizualizer hosted here: http://www.thisiscraigbrown.com/work/audible/beats
 
 
-Folders and Content
+*Folders and Content:*
 
 ####hype
   - SoundCloud Viz Lights: HTML5 hype exports for central animation
@@ -42,7 +42,7 @@ Folders and Content
 Various pieces from portolio
 
 
-Content
+*Content:*
 
 ####-WIRES-
 
