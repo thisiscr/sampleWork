@@ -28,11 +28,12 @@ Folders and Content
 
 #-PDF-
 
-*emusic_ux_analysis_suggestions 
-*Brown-VizTouch-TEI2011
+-emusic_ux_analysis_suggestions
+-Brown-VizTouch-TEI2011
 
 #-WORD-
-*Mobile UX Review - Youtube
+
+-Mobile UX Review - Youtube
 
 
 #-In Work.zip-:
@@ -43,7 +44,9 @@ Folders and Content
 -University of College - Wire - Omni
   
 ####-HYPE PROTOTYPE-
+
 -LabelBox - Prototype - Hype
   
 ####-PDF-
+
 -Ebay UX Issues - PDF
