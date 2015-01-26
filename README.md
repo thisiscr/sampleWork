@@ -39,11 +39,11 @@ Folders and Content
 
 ####-WIRES-
 
-*Portfolio - Wire - Omni
-*University of College - Wire - Omni
+-Portfolio - Wire - Omni
+-University of College - Wire - Omni
   
 ####-HYPE PROTOTYPE-
-*LabelBox - Prototype - Hype
+-LabelBox - Prototype - Hype
   
 ####-PDF-
-*Ebay UX Issues - PDF
+-Ebay UX Issues - PDF
