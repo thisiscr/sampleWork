@@ -12,15 +12,15 @@ Code (relevant only) from SC Vizualizer hosted here: http://www.thisiscraigbrown
 
 Folders and Content
 
-*hype
+####hype
   - SoundCloud Viz Lights: HTML5 hype exports for central animation
   - SoundCloud Viz Lights Big: HTML5 hype exports for bottom left/right animation
 
-*routes
+####routes
   - work.js: server side node script which serves up data for work page
     -relevant method: syncSoundcloudWavedata()
 
-*views
+####views
   - layout.html: embeds central hype animation and also set up global opacity toggle and timeline variables
   - work.html: render work page view
     -relevant method: createSoundcloudGallery(container)
@@ -37,13 +37,13 @@ Folders and Content
 
 #-In Work.zip-:
 
-##-WIRES-
+####-WIRES-
 
 *Portfolio - Wire - Omni
 *University of College - Wire - Omni
   
-##-HYPE PROTOTYPE-
+####-HYPE PROTOTYPE-
 *LabelBox - Prototype - Hype
   
-##-PDF-
+####-PDF-
 *Ebay UX Issues - PDF
