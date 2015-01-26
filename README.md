@@ -26,24 +26,24 @@ Folders and Content
     -relevant method: createSoundcloudGallery(container)
 
 
-#—PDF—
+#-PDF-
 
 *emusic_ux_analysis_suggestions 
 *Brown-VizTouch-TEI2011
 
-#—WORD—
+#-WORD-
 *Mobile UX Review - Youtube
 
 
-#in Work.zip:
+#-In Work.zip-:
 
-##--WIRES—
+##-WIRES-
 
 *Portfolio - Wire - Omni
 *University of College - Wire - Omni
   
-##--HYPE PROTOTYPE—
+##-HYPE PROTOTYPE-
 *LabelBox - Prototype - Hype
   
-##--PDF—
+##-PDF-
 *Ebay UX Issues - PDF
