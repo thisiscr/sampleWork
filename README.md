@@ -1,59 +1,28 @@
-sampleWork
-==========
 
-Sample work from portfolio.
-
-#-Javscript-
-
-##Soundcloud Audio Vizualizer
-
-Code (relevant only) from SC Vizualizer hosted here: http://www.thisiscraigbrown.com/work/audible/beats
-
+##Sample Work From Portfolio (UXD)
 
 *Folders and Content:*
 
-####hype
-  - SoundCloud Viz Lights: HTML5 hype exports for central animation
-  - SoundCloud Viz Lights Big: HTML5 hype exports for bottom left/right animation
+####PDF
+- emusic_ux_analysis_suggestions
+    - UX issues and suggetions
+- Brown-VizTouch-TEI2011
+    - 3D Printing research paper (TEI 2012)
+- Ebay UX Issues - PDF
+    - UX issues and suggestions on ebay website (purhcase flow)
 
-####routes
-  - work.js: server side node script which serves up data for work page
-    -relevant method: **syncSoundcloudWavedata()**
-
-####views
-  - layout.html: embeds central hype animation and also set up global opacity toggle and timeline variables
-  - work.html: render work page view
-    -relevant method: **createSoundcloudGallery(container)**
-
-
-#-PDF-
-
--emusic_ux_analysis_suggestions
-
--Brown-VizTouch-TEI2011
-
-#-WORD-
-
--Mobile UX Review - Youtube
+####Word
+- Mobile UX Review - Youtube
+    - UX Review of Youtube mobile
 
 
-##Work.zip
+####Omnigraffle
+- Portfolio Wire Omni
+    - initial wireframes of protfolio site
 
-Various pieces from portolio
-
-
-*Content:*
-
-####-WIRES-
-
--Portfolio - Wire - Omni
-
--University of College - Wire - Omni
+- University of College Wire Omni
+    - Wireframes for fictional college course catalog
   
-####-HYPE PROTOTYPE-
-
--LabelBox - Prototype - Hype
-  
-####-PDF-
-
--Ebay UX Issues - PDF
+####Hype
+- LabelBox Prototype Hype
+    - hype prototype of improved label box tutorial flow
